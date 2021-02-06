@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4010613450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52b9718bc98ddfe658b926f1b9ec5016
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BlockModels/MyStuff/Textures/default_aiming.png
+- Assets/BlockModels/MyStuff/Textures/crosshair_focus.png
+- Assets/BlockModels/MyStuff/Textures/default_ship.png
+- Assets/BlockModels/MyStuff/Textures/crosshair_aiming.png
+- Assets/BlockModels/MyStuff/Textures/default_focus.png
+- Assets/BlockModels/MyStuff/Textures/crosshair_ship.png
+- Assets/BlockModels/MyStuff/Textures/default.png
+- Assets/BlockModels/MyStuff/Textures/crosshair_normal.png
+Dependencies: []
