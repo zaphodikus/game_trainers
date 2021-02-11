@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 204819202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b013ce34876c0921f689c48174a0a587
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Unicorn/Crosshairs/default_ship.png
+- Assets/Unicorn/Crosshairs/default_aiming.png
+- Assets/Unicorn/Crosshairs/default_focus.png
+- Assets/Unicorn/Crosshairs/default.png
+Dependencies: []

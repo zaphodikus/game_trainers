@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2168892556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec1242c07b43b7af6b49721895a4744e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Ship/Crosshairs/default_ship.png
+- Assets/Ship/Crosshairs/default_aiming.png
+- Assets/Ship/Crosshairs/default.png
+- Assets/Ship/Crosshairs/default_focus.png
+Dependencies: []
